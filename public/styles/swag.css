@@ -1,0 +1,16 @@
+.a {
+    border-style: inset;
+    border-width: 4px;
+    width: 300px;
+    border-color: blue;
+    color: midnightblue;
+    text-shadow: 1px 1px 1px #FF0000;
+    background-color: yellow;}
+
+.a:hover{
+background-color: teal;
+}
+
+
+
+
